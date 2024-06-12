@@ -1,0 +1,21 @@
+html{
+    background-color: #EADFB4;
+}
+h1{
+    font-family: Poppins;
+    background-color: #51829B;
+    text-align: center;
+    color: antiquewhite;
+}
+.metin{
+    font-size: x-large;
+    font-family: Abel;  
+    font-weight: bold; 
+    color: #994D1C;
+}
+.altMetin{
+    font-size: 17pt;
+    font-family: Abel;    ;
+    color: #9B4444;
+    font-weight:normal;
+}
